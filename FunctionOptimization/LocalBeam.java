@@ -1,4 +1,5 @@
-package COMP424_A1;
+//Nico Mingkun Xia
+package FunctionOptimization;
 
 import java.util.*;
 
